@@ -1,0 +1,14 @@
+{
+  "name": "wdistance",
+  "version": "1.0.0",
+  "description": "A simple distance computation (latitude and logitude)",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "author": "Walter Dal Mut <walter.dalmut@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
